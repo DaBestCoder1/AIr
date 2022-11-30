@@ -5,3 +5,7 @@ note: Wait for the text listening to show up, wait for about 3 seconds and ask e
 tell a short wiki about them and ask it a joke.
 
 It is a loop so you can keep asking questions to air(AIr)
+
+must download zip and have python installed Thank You👍
+
+©CopyRight Bad_Ideas™
